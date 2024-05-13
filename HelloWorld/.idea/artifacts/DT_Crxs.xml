@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="DT-Crxs">
+    <output-path>$PROJECT_DIR$/out/artifacts/DT_Crxs</output-path>
+    <root id="root" />
+  </artifact>
+</component>

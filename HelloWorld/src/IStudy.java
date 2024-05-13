@@ -1,0 +1,3 @@
+interface IStudy {
+    void study();
+}
